@@ -1,0 +1,22 @@
+{
+    "name": "run-python3",
+    "version": "0.0.1",
+    "description": "Description",
+    "main": "./index.js",
+    "bin": {
+        "run-python3": "./index.js"
+    },
+    "type": "module",
+    "repository": "github:kovacsv/run-python3",
+    "keywords": [
+        "run",
+        "script",
+        "python",
+        "python3"
+    ],
+    "author": "Viktor Kovacs",
+    "license": "MIT",
+    "devDependencies": {
+        "child_process": "^1.0.2"
+    }
+}
