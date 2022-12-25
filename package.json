@@ -1,6 +1,6 @@
 {
     "name": "run-python3",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "A tool to run Python 3 scripts platform independently in package scripts.",
     "main": "./index.js",
     "bin": {
